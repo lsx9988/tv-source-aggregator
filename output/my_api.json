@@ -8,26 +8,39 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "name": "cj.ffzyapi.com",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1
     }
   ],
   "lives": [
     {
-      "name": "live-518ch",
+      "name": "live-516ch",
       "type": 0,
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
+    },
+    {
+      "name": "live-6ch",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u"
     }
   ],
   "parses": [],
   "flags": [],
   "alive_summary": {
-    "vod_alive": 1,
-    "vod_total": 5,
-    "live_alive": 1,
-    "live_total": 4,
+    "vod_alive": 2,
+    "vod_total": 20,
+    "live_alive": 2,
+    "live_total": 8,
     "agg_alive": 0,
-    "agg_total": 3,
-    "sites": 1,
-    "lives": 1,
-    "checked_at": "2026-11-05T00:24:18.408589+00:00"
+    "agg_total": 5,
+    "sites": 2,
+    "lives": 2,
+    "checked_at": "2026-11-05T06:29:04.340287+00:00"
   }
 }
