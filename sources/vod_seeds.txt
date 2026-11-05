@@ -1,10 +1,8 @@
 # 点播 API 候选源（每行一个 URL，# 开头为注释）
 # 格式：CMS 接口根地址，程序会自动拼接 ?ac=list 检测
-# 可自行从公开 TVBox 仓库收集后追加到这里
 
-# --- 示例（公开源可能失效，程序会自动过滤） ---
-# https://www.tvip.tv/api.php/provide/vod
-# https://api.tiankongapi.com/api.php/provide/vod
-# https://api.ddzvod.com/api.php/provide/vod
-# https://cj.lziapi.com/api.php/provide/vod
-# https://www.md0v.com/api.php/provide/vod
+https://cj.lziapi.com/api.php/provide/vod
+https://api.tiankongapi.com/api.php/provide/vod
+https://api.ddzvod.com/api.php/provide/vod
+https://www.md0v.com/api.php/provide/vod
+https://www.czzyapi.com/api.php/provide/vod

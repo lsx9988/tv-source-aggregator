@@ -1,8 +1,6 @@
 # 直播 M3U 候选源（每行一个 .m3u / .m3u8 URL）
-# 程序会下载并验证流地址是否可播放
-# 可自行从公开 IPTV 仓库收集后追加
 
-# --- 示例 ---
-# https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-# https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-# https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://raw.githubusercontent.com/HerbertHe/iptv-sources/main/sources/m3u/cn.m3u
