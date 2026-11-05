@@ -3,3 +3,5 @@
 https://raw.githubusercontent.com/gaotianqi/TVBox/main/json/tvbox.json
 https://raw.githubusercontent.com/Clinyue/TVBox/main/tvbox.json
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/draft.json
+https://raw.githubusercontent.com/bunsenmcd/TVBox/main/json/tvbox.json
+https://raw.githubusercontent.com/TVBox/tvbox/main/json/tvbox.json
