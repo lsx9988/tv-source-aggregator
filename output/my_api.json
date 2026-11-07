@@ -20,7 +20,7 @@
   ],
   "lives": [
     {
-      "name": "live-516ch",
+      "name": "live-518ch",
       "type": 0,
       "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
     },
@@ -41,6 +41,6 @@
     "agg_total": 5,
     "sites": 2,
     "lives": 2,
-    "checked_at": "2026-11-06T22:50:59.892962+00:00"
+    "checked_at": "2026-11-07T05:11:48.601661+00:00"
   }
 }
